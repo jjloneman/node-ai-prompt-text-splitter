@@ -1,0 +1,43 @@
+{
+  "name": "ai-prompt-text-splitter",
+  "version": "1.0.0",
+  "description": "A node.js/typescript program that splits text into tokens that fit into an AI prompt, like ChatGPT.",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings --loader ts-node/esm index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjloneman/ai-prompt-text-splitter.git"
+  },
+  "keywords": [
+    "ai",
+    "prompt",
+    "split",
+    "text",
+    "token"
+  ],
+  "author": "JJ Loneman <jjloneman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjloneman/ai-prompt-text-splitter/issues"
+  },
+  "homepage": "https://github.com/jjloneman/ai-prompt-text-splitter#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "@langchain/textsplitters": "0.1.0",
+    "clipboardy": "4.0.0",
+    "press-any-key": "1.0.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node22": "22.0.0",
+    "@types/node": "22.5.5",
+    "ts-node": "10.9.2",
+    "tslib": "2.7.0",
+    "typescript": "5.6.2"
+  }
+}

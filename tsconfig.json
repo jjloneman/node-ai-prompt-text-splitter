@@ -1,0 +1,17 @@
+{
+  "extends": "@tsconfig/node22/tsconfig.json",
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "importHelpers": true
+
+    // Extended options:
+    //
+    // "esModuleInterop": true,
+    // "lib": ["es2023"],
+    // "module": "node16",
+    // "moduleResolution": "node16",
+    // "skipLibCheck": true,
+    // "strict": true,
+    // "target": "es2022",
+  }
+}
