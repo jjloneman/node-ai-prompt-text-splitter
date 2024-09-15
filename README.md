@@ -1,5 +1,9 @@
 # ✂️ AI Prompt Text Splitter
 
+![node badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjloneman%2Fai-prompt-text-splitter%2Fmain%2Fpackage.json&query=%24.engines.node&logo=nodedotjs&logoColor=white&label=Node.js&color=%235FA04E)
+![typescript badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjjloneman%2Fai-prompt-text-splitter%2Fmain%2Fpackage.json&query=%24.devDependencies.typescript&logo=typescript&logoColor=white&label=TypeScript&color=3178C6)
+![license badge](https://img.shields.io/badge/License-MIT-green)
+
 > A node.js/typescript program that splits text into tokens that fit into an AI
 > prompt, like ChatGPT.
 
