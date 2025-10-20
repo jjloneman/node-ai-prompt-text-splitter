@@ -29,7 +29,7 @@
     "node": ">=14.0.0"
   },
   "dependencies": {
-    "@langchain/textsplitters": "0.1.0",
+    "@langchain/textsplitters": "1.0.0",
     "clipboardy": "5.0.0",
     "press-any-key": "1.1.0"
   },
