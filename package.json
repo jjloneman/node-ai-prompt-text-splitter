@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@langchain/textsplitters": "1.0.1",
-    "clipboardy": "5.0.2",
+    "clipboardy": "5.1.0",
     "press-any-key": "1.1.0"
   },
   "devDependencies": {
