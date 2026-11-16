@@ -34,7 +34,7 @@
     "press-any-key": "1.1.0"
   },
   "devDependencies": {
-    "@tsconfig/node22": "22.0.6",
+    "@tsconfig/node22": "22.0.7",
     "@types/node": "26.6.6",
     "ts-node": "10.9.2",
     "tslib": "2.9.1",
